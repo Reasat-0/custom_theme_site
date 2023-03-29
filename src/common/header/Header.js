@@ -12,7 +12,7 @@ const Header = () => {
     const [showOffcanvas, setShowOffcanvas] = useState(false);
 
     const OffcanvasHandleClose = () => setShowOffcanvas(false);
-    const OffcanvasHandleShow = () => setShowOffcanvas(true);
+    // const OffcanvasHandleShow = () => setShowOffcanvas(true);
 
     const sticky = StickyHeader(100);
 

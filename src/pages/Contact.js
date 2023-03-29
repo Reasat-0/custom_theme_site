@@ -5,8 +5,8 @@ import FooterOne from '../common/footer/Footer';
 import HeaderOne from '../common/header/Header';
 import BreadCrumbOne from '../elements/breadcrumb/BreadCrumbOne';
 import FormTwo from '../component/contact/FormTwo';
-import SectionTitle from '../elements/section-title/SectionTitle';
-import ContactLocation from '../component/contact/ContactLocation';
+// import SectionTitle from '../elements/section-title/SectionTitle';
+// import ContactLocation from '../component/contact/ContactLocation';
 
 
 
